@@ -3,7 +3,7 @@ I'm a Full Stack Developer, I specialize in web and mobile development. Passiona
 
     Languages: JavaScript, CSS, HTML
     Frameworks: In progress
-    Mobile Development: React Native
+    Mobile Development: In progress
     Templating: In progress
     DataBase: Postgres
     Tools: Git, GitHub, Figma, ...
