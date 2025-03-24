@@ -1,12 +1,11 @@
 I'm a Full Stack Developer, I specialize in web and mobile development. Passionate about creating innovative solutions for businesses.
 🔧 Skills
 
-    Languages: JavaScript, TypeScript, CSS, HTML, PHP,Python
-    Frameworks: React, Angular, Symfony, Adonis
+    Languages: JavaScript, CSS, HTML
+    Frameworks: In progress
     Mobile Development: React Native
-    Templating: Twig
-    DataBase: Mysql, SQLite, MongoDB, Postgres
-    Project Management: Team management, project tracking
+    Templating: In progress
+    DataBase: Postgres
     Tools: Git, GitHub, Figma, ...
 
 📫 How to Reach Me
