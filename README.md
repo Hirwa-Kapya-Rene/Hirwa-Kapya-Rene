@@ -2,7 +2,7 @@ I'm a Full Stack Developer, I specialize in web and mobile development. Passiona
 🔧 Skills
 
     Languages: JavaScript, CSS, HTML
-    Frameworks: In progress
+    Frameworks: Adonis In progress
     Mobile Development: In progress
     Templating: In progress
     DataBase: Postgres
